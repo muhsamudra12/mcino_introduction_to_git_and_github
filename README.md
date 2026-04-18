@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple Bash script to calculate the interest earned on a principal amount over a specific period at a given annual interest rate.
+A simple Bash script to calculate the interest earned on a principal amount over a specific period at a given annual interest rate. 1
 
 ## Formula
 
